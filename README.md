@@ -1,6 +1,6 @@
 <h1 align='center'>DeObFU v1.0</h1>
 
-<h2 align='center'><a href='#about'>About</a> ℹ️ • <a href='#dd'>Description</a> 🔬 • <a href='#ii'>Installation</a> 🛠️ • <a href='#htu'>How To Use</a> 📦</h2>
+<h2 align='center'><a href='#about'>About</a> ℹ️ • <a href='#dd'>Description</a> 🔬 • <a href='#ii'>Installation</a> 🛠️ • <a href='#htu'>How To Use</a> 🤚</h2>
 
 <h2 id='about' align="center">About</h2>
 <strong>DeObFU</strong> <i>(Deobfuscator & Fingerprint Utility)</i> is a fast and modular CLI tool for decoding, hash identification, and breaking simple ciphers.
