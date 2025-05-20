@@ -1,4 +1,4 @@
-<h1 align='center'>DeObFU v1.0</h1>
+<h1 align='center'>🥋 DeObFU v1.0</h1>
 
 <h2 align='center'><a href='#about'>About</a> ℹ️ • <a href='#dd'>Description</a> 🔬 • <a href='#ii'>Installation</a> 🛠️ • <a href='#htu'>How To Use</a> 🤚</h2>
 
@@ -64,11 +64,12 @@ Automatically decodes nested/stacked encodings (e.g., Base64 → Base32 → Base
   <p></p>
   <li><strong>📥 <ins>From binary release (no Go required)</ins></strong></li>
     <ol>
-      <li>Go to the <a href=''>Releases</a> page
+      <li>Go to the <a href='https://github.com/Kode-n-Rolla/deobfu/releases'>Releases</a> page
       <li>Download the appropriate binary for your system:
         <ul>
-          <li><a href=''>deobfu.exe</a> for Windows</li>
-          <li><a href=''>deobfu</a> for Linux/macOS</li>
+          <li><a href='https://github.com/Kode-n-Rolla/deobfu/releases/download/v1.0/deobfu-linux'>deobfu</a> for Linux</li>
+          <li><a href='https://github.com/Kode-n-Rolla/deobfu/releases/download/v1.0/deobfu.exe'>deobfu.exe</a> for Windows</li>
+          <li><a href='https://github.com/Kode-n-Rolla/deobfu/releases/download/v1.0/deobfu-macos'>deobfu</a> for macOS</li>
         </ul>
       <li>Make it executable:</li>
         <pre><code>chmod +x deobfu
