@@ -100,4 +100,4 @@ Automatically decodes nested/stacked encodings (e.g., Base64 → Base32 → Base
     The tool will automatically analyze the string using all relevant modules and output results.
 </ul>
 <h3>Output of <code>--help</code> command</h3>
-<img src='https://github.com/Kode-n-Rolla/deobfu/blob/main/imgs/help_command.png' />
+<img src="https://github.com/Kode-n-Rolla/deobfu/blob/main/imgs/help_command.png">
