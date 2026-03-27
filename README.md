@@ -4,6 +4,16 @@
 
 <img src='https://github.com/Kode-n-Rolla/deobfu/blob/main/imgs/deobfu.png'>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-Tool-blue">
+  <img src="https://img.shields.io/badge/Focus-Security-red">
+  <img src="https://img.shields.io/badge/Feature-Deobfuscation-purple">
+  <img src="https://img.shields.io/badge/Domain-Reverse%20Engineering-orange">
+  <img src="https://img.shields.io/badge/Interface-CLI-black">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
+
 <h2 id='about' align="center">About</h2>
 <strong>DeObFU</strong> <i>(Deobfuscator & Fingerprint Utility)</i> is a fast and modular CLI tool for decoding, hash identification, and breaking simple ciphers.
 <p></p>
