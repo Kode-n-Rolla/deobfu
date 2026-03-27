@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Domain-Reverse%20Engineering-orange">
   <img src="https://img.shields.io/badge/Interface-CLI-black">
   <img src="https://img.shields.io/badge/Status-Active-success">
-  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/License-GPL-green">
 </p>
 
 <h2 id='about' align="center">About</h2>
